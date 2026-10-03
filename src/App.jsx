@@ -729,12 +729,20 @@ function App() {
           </div>
 
           <div className="flex items-center gap-2">
-            <a
-              href="#contact"
-              className="hidden rounded-full bg-[#70456F] px-4 py-2.5 text-xs font-semibold text-white transition-transform hover:-translate-y-0.5 sm:inline-flex"
-            >
-              Let's talk
-            </a>
+  <a
+    href="/Chelsea_Chukwudozie_CV.pdf"
+    download="Chelsea CV Portfolio.pdf"
+    className="hidden rounded-full border border-[#E6D9D3] bg-[#FFFDFC] px-4 py-2.5 text-xs font-semibold text-[#241526] transition-all hover:-translate-y-0.5 hover:bg-[#F2E9EE] sm:inline-flex"
+  >
+    Download CV
+  </a>
+
+  <a
+    href="#contact"
+    className="hidden rounded-full bg-[#70456F] px-4 py-2.5 text-xs font-semibold text-white transition-transform hover:-translate-y-0.5 sm:inline-flex"
+  >
+    Let's talk
+  </a>
 
             <button
               type="button"

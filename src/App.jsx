@@ -43,8 +43,8 @@ const projects = [
   {
     number: '02',
     type: 'AI / FORECASTING / BUSINESS',
-    title: 'SAlpha Predict',
-    subtitle: 'Sales Forecasting & Decision Support for SAlpha Energy',
+    title: 'Salpha Predict',
+    subtitle: 'Sales Forecasting & Decision Support for Salpha Energy',
     description:
       'An AI-powered forecasting system designed to turn historical sales data into clearer insights about future sales and business decisions.',
     technologies: [
@@ -56,7 +56,7 @@ const projects = [
       'Data Analysis',
     ],
     overview:
-      'SAlpha Predict began as a personal project driven by my curiosity about how AI and predictive technology could be used to understand what might happen next in a real business. After graduating, I decided to explore the idea using sales data from my sister’s solar company. What started as a personal experiment gradually became more structured as I explored different forecasting approaches and discussed the system’s potential with her. This eventually developed into a forecasting and decision-support system designed to turn historical sales data into clearer insights about future sales and business decisions.',
+      'Salpha Predict began as a personal project driven by my curiosity about how AI and predictive technology could be used to understand what might happen next in a real business. After graduating, I decided to explore the idea using sales data from my sister’s solar company. What started as a personal experiment gradually became more structured as I explored different forecasting approaches and discussed the system’s potential with her. This eventually developed into a forecasting and decision-support system designed to turn historical sales data into clearer insights about future sales and business decisions.',
     focus:
       'I developed the idea of Smart Forecast, allowing the system to compare different forecasting approaches and select the most suitable one for an individual product rather than expecting the user to understand which model to choose. I also focused on making the forecasting process easier to understand through simple terminology and clear outputs.',
     outcome:
